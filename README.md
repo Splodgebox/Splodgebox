@@ -12,6 +12,10 @@ I'm well known in the Spigot/Bukkit scene and am making my way into other audien
 
 🔭 Many of my public work has gone viral in a way with a couple thousand downloads per project and my paid projects have massed hundreds of purchases
 
-🌱 I'm currently learning more complex JavaScript with frameworks like React and Vue
+📱 I have recently been using Java to create android applications in I have released my very first [application](https://play.google.com/store/apps/details?id=net.splodgebox.blueberryfinance)
+
+**Thank you for stopping by my github page, if you would like to follow me or check out my repositories then feel free to**
 
 📫 Discord is my main form of communication; my discord username is Splodgebox#3490
+
+🎥 Also you can find me on Twitch where I stream myself coding various projects ([Twitch](https://twitch.tv/splodgebox_official))
