@@ -19,3 +19,5 @@ I'm well known in the Spigot/Bukkit scene and am making my way into other audien
 Discord is my main form of communication; my discord username is Splodgebox#3490
 
 Also you can find me on Twitch where I stream myself coding various projects ([Twitch](https://twitch.tv/splodgebox_official))
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=Splodgebox&show_icons=true&theme=merko)][![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Splodgebox&theme=merko)]
