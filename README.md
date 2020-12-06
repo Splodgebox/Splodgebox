@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<p align="center">
+  <img src="https://i.imgur.com/KZ0rRRL.png" />
+</p>
 My name is Splodgebox, I am a young passionate developer of a range of programming languages.
 I'm well known in the Spigot/Bukkit scene and am making my way into other audiences.
 
