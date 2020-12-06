@@ -22,5 +22,6 @@ Also you can find me on Twitch where I stream myself coding various projects ([T
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Splodgebox&show_icons=true&theme=merko"/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Splodgebox&theme=merko"/>
 </p>
