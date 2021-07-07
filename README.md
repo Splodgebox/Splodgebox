@@ -19,3 +19,9 @@ I'm well known in the Spigot/Bukkit scene and am making my way into other audien
 Discord is my main form of communication; my discord username is Splodgebox#3490
 
 Also you can find me on Twitch where I stream myself coding various projects ([Twitch](https://twitch.tv/splodgebox_official))
+
+<p align="center">
+  <a href="https://gamersupps.gg/discount/Splodgebox?afmc=Splodgebox">
+    <img src="https://i.imgur.com/DEBWkxv.png" />
+  </a>
+</p>
