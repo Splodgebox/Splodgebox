@@ -2,19 +2,21 @@
   <img src="https://i.imgur.com/KZ0rRRL.png" />
 </p>
 
-#### Hello,
-My name is Splodgebox, I am a young passionate developer of a range of programming languages.
-I'm well known in the Spigot/Bukkit scene and am making my way into other audiences.
+<p align="center">
+  Hello, My name is Splodgebox, I am a young passionate developer of a range of programming languages.</br>
+  I'm well known in the Spigot/Bukkit scene and am making my way into other audiences.</br>
+  You can find me on Discord (<b>@Splodgebox#3490</b>) or <a href="https://twitter.com/splodgebox">Twitter</a></br></br>
+  <b>Current Languages:</b>
+</p>
 
-**Current Languages**: ![language](https://img.shields.io/badge/Java-error?style=plastic&logo=java&logoColor=black&color=ef692f) ![language](https://img.shields.io/badge/Python-error?style=plastic&logo=python&logoColor=black&color=ef692f) ![language](https://img.shields.io/badge/C%23-error?style=plastic&logo=c-sharp&logoColor=black&color=ef692f) ![language](https://img.shields.io/badge/Kotlin-error?style=plastic&logo=kotlin&logoColor=black&color=ef692f) ![language](https://img.shields.io/badge/Java%20Script-error?style=plastic&logo=javascript&logoColor=black&color=ef692f)
+<p align="center">
+  <img src="https://skills.thijs.gg/icons?i=java,js,python,kotlin,dart" />
+</p>
 
-🔭 Many of my public work has gone viral in a way with a couple thousand downloads per project and my paid projects have massed hundreds of purchases
-
-**Thank you for stopping by my github page, if you would like to follow me or check out my repositories then feel free to**
-
-Discord is my main form of communication; my discord username is Splodgebox#3490
-
-Also you can find me on Twitch where I stream myself coding various projects ([Twitch](https://twitch.tv/splodgebox_official))
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Splodgebox&show_icons=true&theme=radical" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Splodgebox&layout=compact&theme=radical"/>
+</p>
 
 <p align="center">
   <a href="https://gamersupps.gg/discount/Splodgebox?afmc=Splodgebox">
