@@ -33,12 +33,6 @@ I'm a passionate developer specializing in Java and Minecraft plugin development
 - **[ArmorEquip](https://github.com/Splodgebox/armorequip)** - Essential ArmorEquip/Unequip events for SpigotAPI
 - **[MonthlyCrates](https://github.com/Splodgebox/MonthlyCrates)** - Premium crate system as seen on major networks
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Splodgebox&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
 ## 🎮 Gaming Partnerships
 
 <p align="center">
