@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hey there, I'm Splodgebox</h1>
 
 <p align="center">
-  Java Developer at Luminosity Gaming & Raytheon | Minecraft Plugin Developer
+  Software Engineer at Luminosity Gaming & Alten (Client: Thales)
 </p>
 
 <p align="center">
