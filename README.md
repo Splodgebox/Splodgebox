@@ -27,12 +27,6 @@ I'm a passionate developer specializing in Java and Minecraft plugin development
   <img src="https://skillicons.dev/icons?i=java,js,python,kotlin,dart" />
 </p>
 
-## 🏆 Featured Projects
-
-- **[EliteLootbox](https://github.com/Splodgebox/elitelootbox)** - A powerful and customizable Spigot plugin for managing lootboxes
-- **[ArmorEquip](https://github.com/Splodgebox/armorequip)** - Essential ArmorEquip/Unequip events for SpigotAPI
-- **[MonthlyCrates](https://github.com/Splodgebox/MonthlyCrates)** - Premium crate system as seen on major networks
-
 ## 🎮 Gaming Partnerships
 
 <p align="center">
