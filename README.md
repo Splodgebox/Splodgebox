@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hey there, I'm Splodgebox</h1>
 
 <p align="center">
-  Software Engineer at Luminosity Gaming & Alten (Client: Thales)
+  Software Engineer at Alten (Client: Thales)
 </p>
 
 <p align="center">
